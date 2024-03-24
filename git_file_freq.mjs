@@ -1,6 +1,6 @@
 #!/usr/bin/env zx
 
-// Set verbose mode to false
+// Set verbose mode to false.
 $.verbose = false;
 
 try {
